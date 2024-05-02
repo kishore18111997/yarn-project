@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-using-yarn",
+  "version": "1.0.0",
+  "description": "build a nodejs project using yarn",
+  "main": "app.js",
+  "author": "kishore",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
